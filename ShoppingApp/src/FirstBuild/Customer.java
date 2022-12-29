@@ -34,7 +34,7 @@ public class Customer {
 
 	@Override
 	public String toString() {
-		return "\nCustomer [id=" + id + ", name=" + name + ", tier=" + tier + "]";
+		return "Customer [id=" + id + ", name=" + name + ", tier=" + tier + "]";
 	}
 	
 	
